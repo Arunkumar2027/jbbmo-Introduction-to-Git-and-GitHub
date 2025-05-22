@@ -1,0 +1,11 @@
+# Create a new branch for the bug fix
+git checkout -b bug-fix-typo
+
+# Add the updated README.md
+git add README.md
+
+# Commit with a message
+git commit -m "Fixed typo in README.md"
+
+# Push the branch to GitHub
+git push origin bug-fix-typo
